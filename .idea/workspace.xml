@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a3802c3-ad90-4aad-9faa-f3edfb8ad993" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/DTO/PhoneDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/controller/PhoneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/model/PhoneModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/repository/PhoneRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/service/PhoneService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/controller/PhoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/controller/PhoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/service/PhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/service/PhoneService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <updated>1680854682688</updated>
       <workItem from="1680854683708" duration="3801000" />
       <workItem from="1680862088725" duration="648000" />
-      <workItem from="1680862990829" duration="4329000" />
+      <workItem from="1680862990829" duration="6724000" />
     </task>
     <servers />
   </component>
