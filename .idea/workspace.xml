@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2a3802c3-ad90-4aad-9faa-f3edfb8ad993" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/DTO/PhoneDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/DTO/PhoneDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/controller/PhoneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/controller/PhoneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/repository/PhoneRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/repository/PhoneRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/service/PhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/unocabs/phonebrands/service/PhoneService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Coding Folders/Personal Projects/phone-brands",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "8df003691598dbb884e5ce878ccb9ede",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding Folders/Personal Projects/phone-brands&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;8df003691598dbb884e5ce878ccb9ede&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PhoneBrandsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="phone-brands" />
@@ -87,7 +89,9 @@
       <updated>1680854682688</updated>
       <workItem from="1680854683708" duration="3801000" />
       <workItem from="1680862088725" duration="648000" />
-      <workItem from="1680862990829" duration="6724000" />
+      <workItem from="1680862990829" duration="7681000" />
+      <workItem from="1681043344492" duration="14187000" />
+      <workItem from="1681080077509" duration="2174000" />
     </task>
     <servers />
   </component>

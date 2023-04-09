@@ -7,6 +7,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/phones")
@@ -20,8 +21,23 @@ public class PhoneController {
         return phoneService.getAllPhone();
     }
 
+    @GetMapping ("/{phoneId}")
+    public PhoneDTO getByPhoneId (@PathVariable UUID phoneId) {
+        return phoneService.getByPhoneId(phoneId);
+    }
+
     @PostMapping
     public List<PhoneDTO> postPhone(@RequestBody PhoneModel phoneModel) {
         return phoneService.postPhone(phoneModel);
+    }
+
+    @DeleteMapping ("/{phoneId}")
+    public List<PhoneDTO> deleteByPhoneId (@PathVariable UUID phoneId) {
+        return phoneService.deleteByPhoneId(phoneId);
+    }
+
+    @PutMapping("/{phoneId}")
+    public PhoneDTO updatePhone (@PathVariable UUID phoneId, @RequestBody PhoneModel updatedModel) {
+        return phoneService.updatePhone(phoneId, updatedModel);
     }
 }
